@@ -6,6 +6,3 @@ No Absen : 10 <br>
 
 ## Preview UI
 
-![preview]()
-
-
