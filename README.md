@@ -1,9 +1,9 @@
 # Application UI Pantai Menganti
 
-Nama : Ade Rahmat Setiawan<br>
+Nama : Fajar Ageng Fauzi<br>
 Kelas : IK-2A <br>
-No Absen : 01 <br>
+No Absen : 10 <br>
 
 ## Preview UI
 
-![preview](https://user-images.githubusercontent.com/19799218/199523061-e2eb8d9b-eb93-48e7-b9ba-3ab853a7fbac.png)
+![preview](blob:https://web.whatsapp.com/9712d0d9-740f-41f7-90d3-6afc94aef277)
