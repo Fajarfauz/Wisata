@@ -11,11 +11,11 @@ class DetailScreen extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: <Widget>[
               Image.network(
-                  'https://img.inews.co.id/media/822/files/inews_new/2022/07/13/sejarah_masjid_agung_demak.jpg'),
+                  'https://images.tokopedia.net/img/KRMmCm/2022/6/21/b1b0b3c0-3a13-44b5-a9d6-ecd523f5c2d9.jpg'),
               Container(
                 margin: const EdgeInsets.only(top: 5),
                 child: const Text(
-                  'Masjid Agung Demak',
+                  'Kota lama',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 30,
@@ -70,7 +70,7 @@ class DetailScreen extends StatelessWidget {
               Container(
                 padding: const EdgeInsets.all(16),
                 child: const Text(
-                  'Masjid Agung Demak merupakan masjid kuno yang dibangun oleh Raden Patah dari Kerajaan Demak dibantu para Walisongo pada abad ke-15 Masehi. Masjid ini masuk dalam salah satu jajaran masjid tertua di Indonesia. Lokasi Masjid Agung Demak terletak di Kampung Kauman, Kelurahan Bintoro, Kabupaten Demak, Jawa Tengah. Berada tepat di alun-alun dan pusat keramaian Demak, Masjid Agung Demak tak sulit untuk ditemukan.',
+                  'Kota Lama Semarang (translit, Kutha Lama Semarang, Belanda: Semarang Oude Stad) adalah suatu kawasan di Semarang yang menjadi pusat perdagangan pada abad 19-20 . Pada masa itu, untuk mengamankan warga dan wilayahnya, kawasan itu dibangun benteng, yang dinamai benteng Vijfhoek. Untuk mempercepat jalur perhubungan antar ketiga pintu gerbang dibenteng itu maka dibuat jalan-jalan perhubungan, dengan jalan utamanya dinamai Heerenstraat. Saat ini bernama Jl. Letjen Soeprapto. Salah satu lokasi pintu benteng yang ada sampai saat ini adalah Jembatan Berok, yang disebut De Zuider Por. Kata Berok sendiri merupakan hasil pelafalan masyarakat Pribumi yang kesulitan melafalkan kata Burg dalam Bahasa Belanda.',
                   textAlign: TextAlign.center,
                   style: TextStyle(fontSize: 16),
                 ),
@@ -85,7 +85,7 @@ class DetailScreen extends StatelessWidget {
                       child: ClipRRect(
                         borderRadius: BorderRadius.circular(10),
                         child: Image.network(
-                            'https://3.bp.blogspot.com/-gUFdV-mzW_w/XXEEtPt3XqI/AAAAAAAAsm0/7Mxl4YReAIsT4HDD0mRNBImGlWmtxy9HwCLcBGAs/s1600/museum-masjid-agung-demak-1.jpg'),
+                            'https://asset.kompas.com/crops/RDmQ3DPdxcLMCacPHJhHWMDgAx4=/71x0:912x561/750x500/data/photo/2020/01/19/5e2435421b70b.jpg'),
                       ),
                     ),
                     Padding(
@@ -93,7 +93,7 @@ class DetailScreen extends StatelessWidget {
                       child: ClipRRect(
                         borderRadius: BorderRadius.circular(10),
                         child: Image.network(
-                            'https://3.bp.blogspot.com/-1n-FEQELD-0/Wgjr22gur3I/AAAAAAAAHLc/wkVYmfwMKzMl53kfUtf3sYThS-qt6C6LQCLcBGAs/w1200-h630-p-k-no-nu/masjid%2Bagung%2Bdemak.jpg'),
+                            'https://images.tokopedia.net/img/KRMmCm/2022/6/21/b1b0b3c0-3a13-44b5-a9d6-ecd523f5c2d9.jpg'),
                       ),
                     ),
                     Padding(
@@ -101,7 +101,7 @@ class DetailScreen extends StatelessWidget {
                       child: ClipRRect(
                         borderRadius: BorderRadius.circular(10),
                         child: Image.network(
-                            'https://yt3.ggpht.com/ytc/AMLnZu8Xzj7Q6fexy1qGxjlxg5rib4UGGJgZh2rF9ibU1Q=s900-c-k-c0x00ffffff-no-rj'),
+                            'https://asset.kompas.com/crops/RDmQ3DPdxcLMCacPHJhHWMDgAx4=/71x0:912x561/750x500/data/photo/2020/01/19/5e2435421b70b.jpg'),
                       ),
                     ),
                   ],
